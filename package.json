@@ -1,0 +1,66 @@
+{
+  "_from": "react-native-rn-modal-dropdown@^0.1.3",
+  "_id": "react-native-rn-modal-dropdown@0.1.3",
+  "_inBundle": false,
+  "_integrity": "sha512-7UaKSwH4Wm0j6zhdFuccJqqh+t4+k6ZnGOW3nT4vp6chWAmci2dbkgF9kef1RqyoU12QNw3R/B/jRRbzVJCbrw==",
+  "_location": "/react-native-rn-modal-dropdown",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-rn-modal-dropdown@^0.1.3",
+    "name": "react-native-rn-modal-dropdown",
+    "escapedName": "react-native-rn-modal-dropdown",
+    "rawSpec": "^0.1.3",
+    "saveSpec": null,
+    "fetchSpec": "^0.1.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-rn-modal-dropdown/-/react-native-rn-modal-dropdown-0.1.3.tgz",
+  "_shasum": "eda2b905c4e2a3079e003e192df55062e18d2f6a",
+  "_spec": "react-native-rn-modal-dropdown@^0.1.3",
+  "_where": "C:\\Projects\\Omobio\\DialogRetailHub\\o2a_dialog-ssa-VERSION_UPGRADE\\mobile",
+  "author": {
+    "name": "Nipuna H Herath",
+    "email": "hash.crackhead@gmail.com",
+    "url": "https://github.com/kr4ckhe4d"
+  },
+  "bugs": {
+    "url": "https://github.com/kr4ckhe4d/react-native-modal-dropdown/issues",
+    "email": "hash.crackhead@gmail.com"
+  },
+  "bundleDependencies": false,
+    "dependencies": {
+    "prop-types": "^15.6.0"
+  },
+  "deprecated": false,
+  "description": "A react-native dropdown component for both iOS and Android.",
+  "homepage": "https://github.com/kr4ckhe4d/react-native-modal-dropdown",
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "react-native-component",
+    "ios",
+    "android",
+    "modal",
+    "dropdown",
+    "picker",
+    "select",
+    "selector",
+    "option"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-rn-modal-dropdown",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kr4ckhe4d/react-native-modal-dropdown.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.3"
+}
